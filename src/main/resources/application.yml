@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo-logback
+
+logging:
+  file:
+    path: c:/temp/demo-logback.log
